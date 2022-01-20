@@ -36,12 +36,19 @@ Analysis of the Symptoms-Disease Network database using communities.
 
 ## Characterize each community by the symptoms
 
-
 <p align="center">
 <img src=".images-readme/analyzing_communities_1.png" alt="Flowchart" width="700"/>
 </p>
 
 <p align="center">
 <img src=".images-readme/analyzing_communities_2.png" alt="Flowchart" width="700"/>
+</p>
+
+
+
+## Predict the disease category based on symptoms
+
+<p align="center">
+<img src=".images-readme/prediction_results.png" alt="Flowchart" width="700"/>
 </p>
 
