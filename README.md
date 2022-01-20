@@ -52,3 +52,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 <img src=".images-readme/prediction_results.png" alt="Flowchart" width="800"/>
 </p>
 
+
+## References
+
+- Zhou, X., Menche, J., Barabási, AL. et al. Human symptoms–disease network. Nat Commun 5, 4212 (2014). [https://doi.org/10.1038/ncomms5212](https://doi.org/10.1038/ncomms5212)    
