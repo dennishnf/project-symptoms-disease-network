@@ -15,7 +15,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## Approach
 
 <p align="center">
-<img src=".images-readme/approach.png" alt="Flowchart" width="600"/>
+<img src=".images-readme/approach.png" alt="Flowchart" width="700"/>
 </p>
 
 
@@ -23,7 +23,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## All Networks
 
 <p align="center">
-<img src=".images-readme/networks_all.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/networks_all.png" alt="Flowchart" width="800"/>
 </p>
 
 
@@ -38,10 +38,10 @@ Analysis of the Symptoms-Disease Network database using communities.
 
 
 <p align="center">
-<img src=".images-readme/analyzing_communities_1.png" alt="Flowchart" width="600"/>
+<img src=".images-readme/analyzing_communities_1.png" alt="Flowchart" width="700"/>
 </p>
 
 <p align="center">
-<img src=".images-readme/analyzing_communities_2.png" alt="Flowchart" width="600"/>
+<img src=".images-readme/analyzing_communities_2.png" alt="Flowchart" width="700"/>
 </p>
 
