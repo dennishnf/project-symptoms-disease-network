@@ -49,6 +49,6 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## Predict the disease category based on symptoms
 
 <p align="center">
-<img src=".images-readme/prediction_results.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/prediction_results.png" alt="Flowchart" width="800"/>
 </p>
 
