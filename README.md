@@ -27,3 +27,21 @@ Analysis of the Symptoms-Disease Network database using communities.
 </p>
 
 
+## Communities of Diseases Network
+
+<p align="center">
+<img src=".images-readme/communities_diseases.png" alt="Flowchart" width="450"/>
+</p>
+
+
+## Characterize each community by the symptoms
+
+
+<p align="center">
+<img src=".images-readme/analyzing_communities_1.png" alt="Flowchart" width="450"/>
+</p>
+
+<p align="center">
+<img src=".images-readme/analyzing_communities_2.png" alt="Flowchart" width="450"/>
+</p>
+
