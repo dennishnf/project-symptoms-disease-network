@@ -20,10 +20,10 @@ Analysis of the Symptoms-Disease Network database using communities.
 
 
 
-## Communities of Diseases Network
+## All Networks
 
 <p align="center">
-<img src=".images-readme/communities_diseases.png" alt="Flowchart" width="450"/>
+<img src=".images-readme/networks_all.png" alt="Flowchart" width="450"/>
 </p>
 
 
