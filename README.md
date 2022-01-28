@@ -49,7 +49,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## Table of the characterization of each community by symptoms
 
 <p align="center">
-<img src=".images-readme/table_symptom_disease.png" alt="figure" width="400"/>
+<img src=".images-readme/table_symptom_disease.png" alt="figure" width="500"/>
 </p>
 
 
