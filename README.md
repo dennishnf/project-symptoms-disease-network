@@ -13,19 +13,18 @@ Analysis of the Symptoms-Disease Network database using communities.
 
 
 
-## Dataset
-
-<p align="center">
-<img src=".images-readme/dataset_table.png" alt="figure" width="700"/>
-</p>
-
-
 ## Approach
 
 <p align="center">
 <img src=".images-readme/approach.png" alt="figure" width="700"/>
 </p>
 
+
+## Dataset
+
+<p align="center">
+<img src=".images-readme/dataset_table.png" alt="figure" width="400"/>
+</p>
 
 
 ## All Networks
