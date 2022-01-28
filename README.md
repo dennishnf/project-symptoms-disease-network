@@ -15,7 +15,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## Approach
 
 <p align="center">
-<img src=".images-readme/approach.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/approach.png" alt="figure" width="700"/>
 </p>
 
 
@@ -23,33 +23,40 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## All Networks
 
 <p align="center">
-<img src=".images-readme/networks_all.png" alt="Flowchart" width="800"/>
+<img src=".images-readme/networks_all.png" alt="figure" width="800"/>
 </p>
 
 
 ## Communities of Diseases Network
 
 <p align="center">
-<img src=".images-readme/communities_diseases.png" alt="Flowchart" width="800"/>
+<img src=".images-readme/communities_diseases.png" alt="figure" width="800"/>
 </p>
 
 
-## Characterize each community by the symptoms
+## Characterization of each community by symptoms using bipartite graphs
 
 <p align="center">
-<img src=".images-readme/analyzing_communities_1.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/analyzing_communities_1.png" alt="figure" width="700"/>
 </p>
 
 <p align="center">
-<img src=".images-readme/analyzing_communities_2.png" alt="Flowchart" width="700"/>
+<img src=".images-readme/analyzing_communities_2.png" alt="figure" width="700"/>
 </p>
 
+
+
+## Table of the characterization of each community by symptoms
+
+<p align="center">
+<img src=".images-readme/table_symptom_disease.png" alt="figure" width="800"/>
+</p>
 
 
 ## Predict the disease category based on symptoms
 
 <p align="center">
-<img src=".images-readme/prediction_results.png" alt="Flowchart" width="800"/>
+<img src=".images-readme/prediction_results.png" alt="figure" width="800"/>
 </p>
 
 
