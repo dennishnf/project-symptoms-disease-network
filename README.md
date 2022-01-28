@@ -33,14 +33,14 @@ More exactly, here we employ the "Supplementary Data 3": Term co-occurrences bet
 </p>
 
 
-## All Networks
+## All Networks: bipartite graph and their projections
 
 <p align="center">
 <img src=".images-readme/networks_all.png" alt="figure" width="800"/>
 </p>
 
 
-## Communities of Diseases Network
+## Communities of Diseases Network using Louvain
 
 <p align="center">
 <img src=".images-readme/communities_diseases.png" alt="figure" width="800"/>
