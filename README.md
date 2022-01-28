@@ -34,7 +34,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 </p>
 
 
-## Characterization of each community by symptoms using bipartite graphs
+## Bipartite graphs of each community by symptoms and diseases 
 
 <p align="center">
 <img src=".images-readme/analyzing_communities_1.png" alt="figure" width="700"/>
@@ -49,7 +49,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## Table of the characterization of each community by symptoms
 
 <p align="center">
-<img src=".images-readme/table_symptom_disease.png" alt="figure" width="800"/>
+<img src=".images-readme/table_symptom_disease.png" alt="figure" width="400"/>
 </p>
 
 
