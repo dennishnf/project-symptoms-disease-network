@@ -26,6 +26,8 @@ The steps developed in this project were as follows:
 
 The dataset was extracted from the paper: "Human symptoms–disease network" [Link](https://www.nature.com/articles/ncomms5212).
 
+More exactly, here we employ the "Supplementary Data 3": Term co-occurrences between symptoms and diseases measured by TF-IDF weighted values. This table includes 147,978 records of symptom and disease relationships. 
+
 <p align="center">
 <img src=".images-readme/dataset_table.png" alt="figure" width="500"/>
 </p>
