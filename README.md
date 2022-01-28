@@ -23,7 +23,7 @@ Analysis of the Symptoms-Disease Network database using communities.
 ## Dataset
 
 <p align="center">
-<img src=".images-readme/dataset_table.png" alt="figure" width="400"/>
+<img src=".images-readme/dataset_table.png" alt="figure" width="500"/>
 </p>
 
 
