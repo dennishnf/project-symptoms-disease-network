@@ -24,7 +24,7 @@ The steps developed in this project were as follows:
 
 ## Dataset
 
-The dataset was extracted from the paper: "Human symptoms–disease network". Link: [https://www.nature.com/articles/ncomms5212](https://www.nature.com/articles/ncomms5212)
+The dataset was extracted from the paper: "Human symptoms–disease network" [Link](https://www.nature.com/articles/ncomms5212).
 
 <p align="center">
 <img src=".images-readme/dataset_table.png" alt="figure" width="500"/>
