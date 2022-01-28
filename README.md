@@ -76,6 +76,9 @@ More exactly, here we employ the "Supplementary Data 3": Term co-occurrences bet
 ## References
 
 - Zhou, X., Menche, J., Barabási, AL. et al. Human symptoms–disease network. Nat Commun 5, 4212 (2014). [https://doi.org/10.1038/ncomms5212](https://doi.org/10.1038/ncomms5212)    
+- Blondel, V. D., Guillaume, J.-L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment, 2008(10), P10008. doi:10.1088/1742-5468/2008/10/p10008
+
+
 
 
 
