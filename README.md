@@ -12,6 +12,12 @@
 Analysis of the Symptoms-Disease Network database using communities.
 
 
+## Usage
+
+The complete code of this project is in this repository, in the file: [symptoms-disease-network.ipynb](https://github.com/dennishnf/project-symptoms-disease-network/blob/main/symptoms-disease-network.ipynb).
+
+If the notebook does not load or takes a long time to load, please refresh the page.
+
 
 ## Approach
 
